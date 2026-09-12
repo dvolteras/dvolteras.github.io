@@ -29,7 +29,7 @@ During my PhD, I developed stochastic models and Bayesian inference approaches t
 
 More broadly, I aim to develop predictive and interpretable models of cellular systems that help us understand and predict biological interventions, and ultimately support therapeutic discovery.
 
-<div class="social" aria-label="Professional links">
+<div class="social homepage-social-links" aria-label="Professional links">
   <div class="contact-icons">{% social_links %}</div>
 </div>
 

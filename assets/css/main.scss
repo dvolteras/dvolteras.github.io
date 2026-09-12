@@ -24,3 +24,9 @@
 @use "typograms";
 
 /* Local stylesheet entry point: keeps site-specific Sass overrides cache-busted. */
+
+.homepage-social-links {
+  .contact-icons {
+    font-size: 1.5rem;
+  }
+}
