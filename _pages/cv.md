@@ -8,7 +8,7 @@ description: CV page for Dimitris Volteras.
 ---
 
 <p>
-  <a class="btn btn-primary" href="{{ '/assets/pdf/my_cv.pdf' | relative_url }}" download>
+  <a class="btn btn-primary" href="{{ '/assets/pdf/CV_DVolteras.pdf' | relative_url }}" download>
     Download CV
   </a>
 </p>
