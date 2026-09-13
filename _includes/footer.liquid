@@ -35,12 +35,12 @@
 
 {% if site.enable_darkmode %}
   <script>
-    if (determineThemeSetting() === "system") {
+    if (determineThemeSetting() === 'system') {
       setThemeSetting(determineComputedTheme());
     }
 
     toggleThemeSetting = () => {
-      setThemeSetting(determineThemeSetting() === "dark" ? "light" : "dark");
+      setThemeSetting(determineThemeSetting() === 'dark' ? 'light' : 'dark');
     };
   </script>
 {% endif %}
