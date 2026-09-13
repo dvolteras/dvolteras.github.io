@@ -30,3 +30,13 @@
     font-size: 1.5rem;
   }
 }
+
+/* Keep the theme control to the explicit light and dark states. */
+#light-toggle-system {
+  display: none !important;
+}
+
+html[data-theme-setting="light"] #light-toggle-light,
+html[data-theme-setting="dark"] #light-toggle-dark {
+  display: inline-block;
+}
