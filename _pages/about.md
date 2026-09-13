@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>London, UK</p>
-    <p><a href="/assets/pdf/my_cv.pdf" download class="btn btn-sm z-depth-0">Download CV</a></p>
+    <p><a href="/assets/pdf/CV_DVolteras.pdf" download class="btn btn-sm z-depth-0">Download CV</a></p>
 selected_papers: false
 social: false
 announcements:
