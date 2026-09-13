@@ -37,7 +37,7 @@ _Developmental Dynamics Laboratory — Dr James Briscoe · Mar 2025 – Present_
 - Developed a generative latent-variable model with continuous-time dynamics to learn how gene regulatory networks transform signalling inputs into cell fate outcomes from large-scale, multi-condition single-cell signalling perturbation data. [Related research →]({{ '/research/latent-regulatory-dynamics-of-cell-fate-decisions/' | relative_url }})
 - Developed a probabilistic framework for inferring hierarchical lineage relationships from single-cell genomic barcoding data, contributing to an interdisciplinary study of neural tube developmental dynamics (_Nature_, accepted).
 - Led development of a stochastic modelling and inference framework for gene regulatory mechanisms from time-resolved single-cell transcriptomics, integrating metabolic RNA labelling and developmental time information. [Related research →]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
-- Built and optimised scalable ML and numerical simulation pipelines on HPC infrastructure, including distributed multi-GPU model training.
+- Built and optimised scalable ML and numerical simulation pipelines on HPC infrastructure, including distributed multi-GPU training on large-scale single-cell datasets.
 - Exploring predictive representation-learning approaches for cellular perturbation response from high-dimensional interventional single-cell data. [Related research →]({{ '/research/learning-cellular-responses-to-perturbation/' | relative_url }})
 - Supervised a visiting PhD student on stochastic modelling and inference of gene regulation from single-cell transcriptomics data.
 
