@@ -15,7 +15,7 @@ description: CV page for Dimitris Volteras.
 
 ## Profile
 
-Computational biologist and machine learning scientist developing predictive models of complex cellular systems from high-dimensional biological data. My research lies at the intersection of modern machine learning and computational biology, spanning generative and representation learning, single-cell biology, dynamical modelling, and probabilistic approaches. I am particularly interested in cellular dynamics, gene regulation and perturbation response, and in how biological structure and experimental design can provide useful inductive biases for ML models. I work closely with experimental scientists to translate biological questions into computational models and testable hypotheses.
+Computational biologist and machine learning scientist developing predictive models of complex cellular systems from high-dimensional biological data. My research lies at the intersection of modern machine learning and computational biology, spanning generative modelling and representation learning, single-cell biology, dynamical modelling, and probabilistic approaches. I am particularly interested in cellular dynamics, gene regulation and perturbation response, and in how biological structure and experimental design can provide useful inductive biases for ML models. I work closely with experimental scientists to translate biological questions into computational models and testable hypotheses.
 
 ## Core Expertise
 
